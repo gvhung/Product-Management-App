@@ -1,0 +1,17 @@
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\bin\Debug\ProductManagementApp.exe.config
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\bin\Debug\ProductManagementApp.exe
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\bin\Debug\ProductManagementApp.pdb
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.Properties.Resources.resources
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.CategoryUI.resources
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.MenuUI.resources
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.ProductEntryUI.resources
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.ProductReportUI.resources
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.ProductSaleUI.resources
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.UI.ProductUI.resources
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.csproj.GenerateResource.Cache
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.exe
+C:\Users\Islam Monjil\Desktop\Project Product Management App\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.pdb
+C:\Users\Islam Monjil\Documents\Visual Studio 2013\Projects\ProductManagementApp\ProductManagementApp\bin\Debug\ProductManagementApp.exe.config
+C:\Users\Islam Monjil\Documents\Visual Studio 2013\Projects\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.exe
+C:\Users\Islam Monjil\Documents\Visual Studio 2013\Projects\ProductManagementApp\ProductManagementApp\obj\Debug\ProductManagementApp.pdb
